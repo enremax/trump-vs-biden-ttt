@@ -119,6 +119,7 @@ function ThankYou() {
     <div className="min-h-screen bg-slate-900 text-white flex items-center justify-center p-6">
       <div className="w-full max-w-2xl p-8 rounded-3xl bg-slate-800/80 shadow-2xl text-center space-y-4">
         <h1 className="text-3xl font-extrabold">🎉 Congratulations — you beat Biden!</h1>
+        <img src="prize.webp" width={250} className="mx-auto" />
         <p className="opacity-90">
           As promised, this <strong>Trump Mystery Box</strong> (worth up to <strong>$300</strong>) is <strong>no cost</strong> to you.
           All we ask is you cover the small shipping &amp; handling fee.
